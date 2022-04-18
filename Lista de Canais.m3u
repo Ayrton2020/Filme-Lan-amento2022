@@ -1,0 +1,148 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://tv0800.xyz/wp-content/uploads/2021/11/GLOBO.png" group-title="Canais Aberto",pltv-subgroup="Globo",Globo
+https://assistirtv.xyz/globo-nordeste/video.m3u8?token=04c2d87c12c2708af0ac024d1aafc85fae3e52ca-78e6100e887e49e1e0630bc104fbd069-1649132192-1649128592&remote=172.68.25.253
+#EXTINF:-1 tvg-logo="https://tv0800.xyz/wp-content/uploads/2021/11/GLOBO.png" group-title="Canais Aberto",pltv-subgroup="Canais Aberto",Globo Rj
+https://assistirtv.xyz/globo-rj/video.m3u8?token=05a1ecb49e15ca4573ef3a217ba3ec5f2e12ad73-96907c3862a5a3b2eae87d061b0e48d2-1649132475-1649128875&remote=172.71.6.116
+#EXTINF:-1 tvg-logo="https://tv0800.xyz/wp-content/uploads/2021/11/RECORD.png" group-title="Canais Aberto",pltv-subgroup="Canais Aberto",RecordTV Rj
+https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_240_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://tv0800.xyz/wp-content/uploads/2021/11/RECORD.png" group-title="Canais Aberto",pltv-subgroup="Canais Aberto",RecordTV DF
+https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_240_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://tv0800.xyz/wp-content/uploads/2021/11/redetv.png" group-title="Canais Aberto",pltv-subgroup="Canais Aberto",Rede Tv
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist_w1472983075.m3u8
+#EXTINF:-1 tvg-logo="https://tv0800.xyz/wp-content/uploads/2021/11/tvdiario.png" group-title="Canais Aberto",pltv-subgroup="Canais Aberto",TV Diário
+https://stream-03.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZStkXNEmajn1wvFFJz2788k)/dm/3/x7txn7q/s/live-0.m3u8#cell=lnyc
+
+#EXTINF:-1 tvg-logo="https://tv0800.xyz/wp-content/uploads/2021/11/BAND.png" group-title="Canais Aberto",pltv-subgroup="Canais Aberto",Band Sp
+https://stream-03.sv4.dailymotion.com/sec(9adq8njh6Ix1Bfv2jmbm4yuJDsdmuzD3H3uMjIUOwgg)/dm/3/x83vbd6/s/live-3.m3u8#cell=lsv4
+#EXTINF:-1 tvg-logo="https://tv0800.xyz/wp-content/uploads/2021/11/BAND.png" group-title="Canais Aberto",pltv-subgroup="Canais Aberto",Band
+https://stream-02.sv4.dailymotion.com/sec(9adq8njh6Ix1Bfv2jmbm4yuJDsdmuzD3H3uMjIUOwgg)/dm/3/x83vbd6/s/live-0.m3u8#cell=lsv4
+#EXTINF:-1 tvg-logo="https://tv0800.xyz/wp-content/uploads/2021/11/tvbrasil.png" group-title="Canais Aberto",pltv-subgroup="Canais Aberto",TV Brasil SD
+https://stream-02.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLt0iMTERzlsFeGQVMj77Kto)/dm/3/x82pp99/d/live-0.m3u8#cell=lnyc
+#EXTINF:-1 tvg-logo="https://tv0800.xyz/wp-content/uploads/2021/11/CULTURA.png" group-title="Canais Aberto",pltv-subgroup="Canais Aberto", TV Cultura HD
+https://assistirtv.xyz/cultura/video.m3u8?token=44d80ee23c3da8c64673ffa3b317ca5c0ee76239-6086028cfea710e705d9870b7e79ffcd-1649136983-1649133383&remote=172.71.16.186
+#EXTINF:-1 tvg-logo="https://tv0800.xyz/wp-content/uploads/2021/11/redefamilia.png" group-title="Canais Aberto",pltv-subgroup="Canais Aberto",Rede Família HD
+https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/chunklist_b1628000.m3u8
+#EXTINF:-1 tvg-logo="https://tv0800.xyz/wp-content/uploads/2021/11/CULTURA.png" group-title="Canais Aberto",pltv-subgroup="Canais Aberto",Tv Cultura SD
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w788028196.m3u8
+#EXTINF:-1 tvg-logo="https://tv0800.xyz/wp-content/uploads/2021/11/recordnews.png" group-title="Canais Aberto",pltv-subgroup="Canais Aberto",Record News SD
+https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_240_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://tv0800.xyz/wp-content/uploads/2021/11/redebrasil.png" group-title="Canais Aberto",pltv-subgroup="Canais Aberto",Rede Brasil SD
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w1872022193.m3u8
+#EXTINF:-1 tvg-logo="https://tv0800.xyz/wp-content/uploads/2021/11/redebrasil.png" group-title="Canais Aberto",pltv-subgroup="Canais Aberto",Rede Brasil HD
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w460472314.m3u8
+#EXTINF:-1 tvg-logo="https://tv0800.xyz/wp-content/uploads/2021/11/Rede-Minas.png" group-title="Canais Aberto",pltv-subgroup="Canais Aberto",Rede Minas HD
+https://v4-slbps-sambavideos.akamaized.net/live/3282,8114,ec4b5a296d97fa99bf990662f5b4f8e1;base64np;Mc8VDxqNjXKCAf8!/amlst:Mc_tFgfGiHOdQXPB/chunklist_b647168.m3u8?sts=st=1649134340~exp=1649140940~acl=/*~hmac=889e23cf5413e15ca15ef54a2b7e2642758ba73d7d47a802e73f0fbff8c839bf
+#EXTINF:-1 tvg-logo="https://tv0800.xyz/wp-content/uploads/2021/11/tvcamara.png" group-title="Canais Aberto",pltv-subgroup="Canais Aberto",TV Câmara HD
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://tv0800.xyz/wp-content/uploads/2020/09/rede-premium.png" group-title="Canais Aberto",pltv-subgroup="Canais Aberto",Rede Premium HD
+https://5c483b9d1019c.streamlock.net/8066/8066/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://tv0800.xyz/wp-content/uploads/2021/11/GAZETA.png" group-title="Canais Aberto",pltv-subgroup="Canais Aberto",TV Gazeta HD
+https://playback2.akamaized.net/streams/5381476_8947634_lsi0xvrh20wkndlbk8s_1/exp=1649223191~acl=%2f*~data=hdntl~hmac=7713424e81a6f1f30e8b9bdf9aeaf58a2ba3bede54b36e3d0e7a38a668e0bb11/media/5381476_8947634_lsi0xvrh20wkndlbk8s_1@1756000p.m3u8?dw=80&ts=1649134800
+#EXTINF:-1 tvg-logo="https://tv0800.xyz/wp-content/uploads/2021/11/FUTURA.png" group-title="Canais Aberto",pltv-subgroup="Canais Aberto",Futura HD
+https://assistirtv.xyz/futura/video.m3u8?token=1ccabdf361e1af7cd8b39059f4f9e646c1baf6bc-3be9e103d90b7e16907f25333ae2752c-1649140287-1649136687&remote=172.71.6.174
+#EXTINF:-1 tvg-logo="https://tv0800.xyz/wp-content/uploads/2021/12/tv-agua-boa.png" group-title="Canais Aberto",pltv-subgroup="Canais Aberto",TV Água Boa HD
+https://5a2b083e9f360.streamlock.net/tvaguaboa2/tvaguaboa2.sdp/chunklist_w580165518.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://tv0800.xyz/wp-content/uploads/2021/11/tvevangelizar.png" group-title="Canais|Religioso",pltv-subgroup="Canais|Religioso",TV Evangelizar HD
+https://5f593df7851db.streamlock.net/evangelizar/tv/chunklist_w1118023809.m3u8
+#EXTINF:-1 tvg-logo="https://tv0800.xyz/wp-content/uploads/2021/11/novotempo.png" group-title="Canais|Religioso",pltv-subgroup="Canais|Religioso",TV Novo Tempo HD
+https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b3628000_slpor.m3u8
+#EXTINF:-1 tvg-logo="https://tv0800.xyz/wp-content/uploads/2021/11/TV-MUNDIAL.png" group-title="Canais|Religioso",pltv-subgroup="Canais|Religioso",Igreja Mundial do Poder de Deus HD
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/chunklist_w410378741_b1096000.m3u8
+#EXTINF:-1 tvg-logo="https://tv0800.xyz/wp-content/uploads/2019/03/iurd-tv.jpg" group-title="Canais|Religioso",pltv-subgroup="Canais|Religioso",IURDTV – TV Universal HD
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/chunklist_d23ca899-fa4e-474e-8d47-b174e369b4c8.m3u8
+#EXTINF:-1 tvg-logo="https://tv0800.xyz/wp-content/uploads/2021/05/top-mix.png" group-title="Canais|Religioso",pltv-subgroup="Canais|Religioso",Top Mix TV HD
+https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://tv0800.xyz/wp-content/uploads/2021/11/redevida.png" group-title="Canais|Religioso",pltv-subgroup="Canais|Religioso",Rede Vida HD
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b1296000.m3u8
+#EXTINF:-1 tvg-logo="https://tv0800.xyz/wp-content/uploads/2021/11/tvaparecida.png" group-title="Canais|Religioso",pltv-subgroup="Canais|Religioso",TV Aparecida HD
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://tv0800.xyz/wp-content/uploads/2021/11/discoverychannel.png" group-title="Canais|Documentário",pltv-subgroup="Canais|Documentário",Discovery Channel HD
+https://assistirtv.xyz/discovery-channel/video.m3u8?token=07a4c70feae52b16bc814f9e62b54cd7977a455f-bd5adb641bd06603f5ce23ae2d4f87e0-1649143678-1649140078&remote=108.162.219.162
+#EXTINF:-1 tvg-logo="https://tv0800.xyz/wp-content/uploads/2021/11/animalplanet.png" group-title="Canais|Documentário",pltv-subgroup="Canais|Documentário",Animal Planet HD
+https://assistirtv.xyz/animal-planet/video.m3u8?token=3a313836a2a286b008666249368cd8505993bf9c-8a035bf6b5eace921773704e3268e970-1649143965-1649140365&remote=162.158.63.248
+#EXTINF:-1 tvg-logo="https://tv0800.xyz/wp-content/uploads/2021/11/discoveryhomehealth.png" group-title="Canais|Documentário",pltv-subgroup="Canais|Documentário",Discovery H&H HD
+https://assistirtv.xyz/discovery-hh/video.m3u8?token=faf8e0930c1ef2ec7f54751a2917b4544fb32de4-e69af53aa8b3b73a28e8c22cc11a8e52-1649144292-1649140692&remote=162.158.62.233
+#EXTINF:-1 tvg-logo="https://tv0800.xyz/wp-content/uploads/2021/11/discoveryturbo.png" group-title="Canais|Documentário",pltv-subgroup="Canais|Documentário",Discovery Turbo HD
+https://assistirtv.xyz/discovery-turbo/video.m3u8?token=7d10b47c9ca57081ed51ea85a89ffedba3a59693-848a3f310132e1dbb169ed5551a01d1b-1649144571-1649140971&remote=108.162.219.98
+#EXTINF:-1 tvg-logo="https://tv0800.xyz/wp-content/uploads/2021/11/discoveryid.png" group-title="Canais|Documentário",pltv-subgroup="Canais|Documentário",Discovery ID HD
+https://assistirtv.xyz/discovery-id/video.m3u8?token=6a79fc8deb6757279a0748c6e58a3aa303a3ded9-7c667633fd660ca2614d9832c96d1eb7-1649144755-1649141155&remote=108.162.219.54
+#EXTINF:-1 tvg-logo="https://tv0800.xyz/wp-content/uploads/2021/11/arte1.png" group-title="Canais|Documentário",pltv-subgroup="Canais Documentário",Arte 1 HD
+https://assistirtv.xyz/arte1/video.m3u8?token=8a91144c12da07a4de58d982f88c0ff04d1f84b4-5924f2afed670920617b218be3cca11a-1649158115-1649154515&remote=172.71.10.24
+#EXTINF:-1 tvg-logo="https://tv0800.xyz/wp-content/uploads/2021/11/National-Geographic.png" group-title="Canais|Documentário",pltv-subgroup="Canais Documentário",National Geographic HD
+https://assistirtv.xyz/nat-geo/video.m3u8?token=de9cba43821182d6b7ed124128acd37bfe5239f2-41473951f101b545b119853326f77639-1649158356-1649154756&remote=172.68.26.148
+#EXTINF:-1 tvg-logo="https://tv0800.xyz/wp-content/uploads/2021/11/historychannel.png" group-title="Canais|Documentário",pltv-subgroup="Canais|Documentário",History HD
+https://assistirtv.xyz/history/video.m3u8?token=6161d65263ddb2ddf407e1c96e06261fe709815d-01016b36587961a80566c67dbe71526f-1649158664-1649155064&remote=172.71.10.24
+#EXTINF:-1 tvg-logo="https://tv0800.xyz/wp-content/uploads/2021/11/discoveryscience.png" group-title="Canais|Documentário",pltv-subgroup="Canais Documentário",Discovery Science HD
+https://assistirtv.xyz/discovery-science/video.m3u8?token=2d09b5b62f7f774d21d167e499edaa4c97fa4771-0e55fa3b2f565150333c2668fe175bf5-1649159488-1649155888&remote=172.68.27.105
+#EXTINF:-1 tvg-logo="https://tv0800.xyz/wp-content/uploads/2021/11/natgeowild.png" group-title="Canais|Documentário",pltv-subgroup="Canais|Documentário",National Geographic Wild HD
+https://assistirtv.xyz/nat-geo-wild/video.m3u8?token=761fac0070278234294acae29c2eb7e82c44ca2f-0d90f294d9a5603836d3e6d0c022a212-1649159784-1649156184&remote=172.71.6.14
+#EXTINF:-1 tvg-logo="https://tv0800.xyz/wp-content/uploads/2021/11/H2.png" group-title="Canais|Documentário",pltv-subgroup="Canais|Documentário",lHistory 2 HD
+https://assistirtv.xyz/h2/video.m3u8?token=aa40c8418a40177f9fd64980e6629e8c6d26d07f-c3b963475f6d319a1e5bfa7a1794708b-1649160031-1649156431&remote=172.71.10.26
+#EXTINF:-1 tvg-logo="https://tv0800.xyz/wp-content/uploads/2021/11/discoveryworld.png" group-title="Canais|Documentário",pltv-subgroup="Canais|Documentário",Discovery World HD
+https://assistirtv.xyz/discovery-world/video.m3u8?token=b807775b4bacec7ef568b736fdeea1dbb581fc5e-e8de590c04f8babf1f19feeba49071f8-1649160242-1649156642&remote=172.71.10.6
+#EXTINF:-1 tvg-logo="https://tv0800.xyz/wp-content/uploads/2020/09/tv-digital-birigui.png" group-title="Canais|Documentário",pltv-subgroup="Canais|Documentário",TV Digital Birigui HD
+https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigitalbirigui/chunklist_w248803393.m3u8
+#EXTINF:-1 tvg-logo="https://tv0800.xyz/wp-content/uploads/2021/11/WOOHOO.png" group-title="Canais|Documentário",pltv-subgroup="Canais|Documentário",Woohoo HD
+https://assistirtv.xyz/woohoo/video.m3u8?token=aa6446e3edeba41b6d3492feaa72b54c727870a0-03c23f983a50a2d51ed3e0c467d3afa4-1649161566-1649157966&remote=172.68.26.122
+#EXTINF:-1 tvg-logo="https://tv0800.xyz/wp-content/uploads/2021/12/smithsonian.png" group-title="Canais|Documentário",pltv-subgroup="Canais|Documentário",Smithsonian Channel HD
+https://assistirtv.xyz/smithsonian/video.m3u8?token=68c69df98c93f701adb5de4b583739866d6b94ae-e38e917fef62038051f2b1825a086dd2-1649161750-1649158150&remote=172.71.6.116
+#EXTINF:-1 tvg-logo="https://tv0800.xyz/wp-content/uploads/2020/09/tv-serra-verde.png" group-title="Canais|Documentário",pltv-subgroup="Canais|Documentário",TV Serra Verde HD
+https://cdn.jmvstream.com/w/AVJ-10557/playlist/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://tv0800.xyz/wp-content/uploads/2021/11/globonews.png" group-title="Canais|Notícias",pltv-subgroup="Canais|Notícias",Globo News HD
+https://assistirtv.xyz/globo-news/video.m3u8?token=46ea1c669181bea4b0b41ae49062f973ba168d4f-f610119703454f0ccf09562bd273bd4b-1649162172-1649158572&remote=172.68.26.118
+#EXTINF:-1 tvg-logo="https://tv0800.xyz/wp-content/uploads/2019/03/jovem-pan.jpg" group-title="Canais|Notícias",pltv-subgroup="Canais|Notícias",Jovem Pan HD
+https://assistirtv.xyz/jp-news/video.m3u8?token=476e5acc6f10184557eab5a6f243abef20e93fb5-b50eba659db92e1a3088645599379809-1649171645-1649168045&remote=172.68.26.4
+#EXTINF:-1 tvg-logo="https://tv0800.xyz/wp-content/uploads/2021/11/bandnews.png" group-title="Canais|Notícias",pltv-subgroup="Canais|Notícias",Band News HD
+https://assistirtv.xyz/band-news/video.m3u8?token=789f7f9fa97a406fc0e065434487f2ff9598fe9f-868a983864f26346a71b46d633e80fc0-1649172014-1649168414&remote=172.71.6.116
+
+
+#EXTINF:-1 tvg-logo="https://tv0800.xyz/wp-content/uploads/2019/03/music-top.jpg" group-title="Canais|Música",pltv-subgroup="Canais|Música",Music Top HD
+https://live-edge01.telecentro.net.ar/live/msctphd-720/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://tv0800.xyz/wp-content/uploads/2022/02/kpop.jpg" group-title="Canais|Música",pltv-subgroup="Canais|Música",Kpop HD
+https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w1203473271.m3u8
+#EXTINF:-1 tvg-logo="https://tv0800.xyz/wp-content/uploads/2021/05/top-mix.png" group-title="Canais|Música",pltv-subgroup="Canais|Música",Top Mix TV HD
+https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://tv0800.xyz/wp-content/uploads/2019/08/musica-24-horas.png" group-title="Canais|Música",pltv-subgroup="Canais|Música",Música 24H HD
+https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://tv0800.xyz/wp-content/uploads/2019/08/musica-24-horas.png" group-title="Canais|Música",pltv-subgroup="Canais|Música",RETRO MUSIC TELEVISIONWEBTV
+https://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://tv0800.xyz/wp-content/uploads/2021/11/Viva.png" group-title="Canais|Série",pltv-subgroup="Canais|Séries",Viva HD
+https://assistirtv.xyz/viva/video.m3u8?token=0dd04da7bf2e11a322bab301a5433c277648ed48-df31cac9f05cfa352aa34d0743f19c5b-1649175543-1649171943&remote=172.71.10.6
+#EXTINF:-1 tvg-logo="https://tv0800.xyz/wp-content/uploads/2021/11/animalplanet.png" group-title="Canais|Série",pltv-subgroup="Canais|Série",Animal Planet HD
+https://assistirtv.xyz/animal-planet/video.m3u8?token=8abe0c2389f87f58763e22c22f160e3ba1c587f3-d3fc9e0b1acd141381c558b9f2252820-1649179479-1649175879&remote=172.71.10.6
+#EXTINF:-1 tvg-logo="https://tv0800.xyz/wp-content/uploads/2021/11/AXN.png" group-title="Canais|Série",pltv-subgroup="Canais|Série",AXN HD
+https://assistirtv.xyz/axn/video.m3u8?token=536851a31e60569313f9ab016fbcd631608de113-3a20320b013ff4a4eb2a35243d74a64c-1649183666-1649180066&remote=172.71.6.14
+#EXTINF:-1 tvg-logo="https://tv0800.xyz/wp-content/uploads/2021/11/AMC.png" group-title="Canais|Série",pltv-subgroup="Canais|Série",AMC HD
+https://assistirtv.xyz/amc/video.m3u8?token=2d8cab499e41d7cd4b7c5c236bac6e3be241cee5-518c1428a43ecc309cfb414415b0f7c2-1649183899-1649180299&remote=172.71.6.58
+#EXTINF:-1 tvg-logo="https://tv0800.xyz/wp-content/uploads/2021/11/warnerchannel.png" group-title="Canais|Série",pltv-subgroup="Canais|Série",Warner Bros HD
+https://assistirtv.xyz/warner/video.m3u8?token=a4f43caa5c21df5cda9a918b1b0f1db6d25267e8-f07ad1fb60836365c1022ab14294db41-1649184112-1649180512&remote=172.71.6.58
+#EXTINF:-1 tvg-logo="https://tv0800.xyz/wp-content/uploads/2021/11/FX.png" group-title="Canais|Série",pltv-subgroup="Canais|Série",FX HD
+https://assistirtv.xyz/fx/video.m3u8?token=6aa21588e40bd7ad17e96e96cecc228f9cc4e42e-90233c7b4823f4438e974300dca9a401-1649184373-1649180773&remote=172.68.26.194
+#EXTINF:-1 tvg-logo="https://tv0800.xyz/wp-content/uploads/2021/11/discoverykids.png" group-title="Canais|Série",pltv-subgroup="Canais|Série",Discovery Kids HD
+https://assistirtv.xyz/discovery-kids/video.m3u8?token=f5340895610cfd18618e5e61bad8b6b0bc898c7c-fbe8fdf68edf8a8f557de9aeefe28bd2-1649184695-1649181095&remote=172.71.6.14
+#EXTINF:-1 tvg-logo="https://tv0800.xyz/wp-content/uploads/2021/11/sonychannel.png" group-title="Canais|Série",pltv-subgroup="Canais|Série",Canal Sony HD
+https://assistirtv.xyz/sony/video.m3u8?token=38408216aac314c377f37a8aad53eaff2ce98189-25fabb0f038c0d00578ee22d467c9c4d-1649185103-1649181503&remote=172.71.6.58
+#EXTINF:-1 tvg-logo="https://varioscanais.com/wp-content/uploads/2021/10/Estadio-Tnt-2-250x250.jpg" group-title="Canais|Esporte",pltv-subgroup="Canais|Esporte",Estadio Tnt 2
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://supertvaovivo.com/wp-content/uploads/2022/01/bbb-2022-1-150x150.jpg" group-title="Canais|BBB22",pltv-subgroup="Canais|BBB22",BBB 22 Piscina HD
+https://fut.xvideosporn.me/p2p/bbbcam1/chunks.m3u8?nimblesessionid=294749&wmsAuthSign=c2VydmVyX3RpbWU9NC81LzIwMjIgOTozMTo1NSBQTSZoYXNoX3ZhbHVlPWV1TzNJTEFGYjJQN1JoaTRwVzkrWGc9PSZ2YWxpZG1pbnV0ZXM9OTA=
+#EXTINF:-1 tvg-logo="http://www.bst-hydepark.com/assets/img/1_generalinfo.png" group-title="Canais|BBB22",pltv-subgroup="Canais|BBB22",Mosaico BBB22
+https://live.xvideosporn.me/p3p/bbb1/p2p/bbb1_720p/chunks.m3u8?nimblesessionid=1365429&wmsAuthSign=c2VydmVyX3RpbWU9NC81LzIwMjIgOTozNzowOSBQTSZoYXNoX3ZhbHVlPThsNnpSQlRRRys3WFpad1BQL1BwVmc9PSZ2YWxpZG1pbnV0ZXM9OTA=
+#EXTINF:-1 tvg-logo="http://www.bst-hydepark.com/assets/img/1_generalinfo.png" group-title="Canais|BBB22",pltv-subgroup="Canais|BBB22",BBB22 Quarto
+https://m3u9.tk/a/hls1/bbb22a.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC81LzIwMjIgNjozMzo1MSBQTSZoYXNoX3ZhbHVlPVlHeURYWkNSNmd6OGVkMXdIRjFXekE9PSZ2YWxpZG1pbnV0ZXM9NDgwJmlkPTU=&attachment=true
+#EXTINF:-1 tvg-logo="http://www.bst-hydepark.com/assets/img/1_generalinfo.png" group-title="LAZER",pltv-subgroup="VARIEDADES",Novo Honda HR-V
+https://videohd3.mais.uol.com.br/16247715.mp4?ver=5&r=tvuol.uol.com.br
+#EXTINF:-1 tvg-logo="http://www.bst-hydepark.com/assets/img/1_generalinfo.png" group-title="LAZER",pltv-subgroup="VARIEDADES",Renault Kwid
+https://video25.mais.uol.com.br/16242250.mp4?ver=2&r=tvuol.uol.com.br
